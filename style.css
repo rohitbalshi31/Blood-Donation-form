@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #660000;
+    line-height: 1.5;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    padding: 30px 20px 30px 20px;
+    width: 30vw;
+    float: right;
+    margin-right: 20px;
+    margin-top: 100px;
+    border: 6px outset red;
+    border-radius: 30px;
+}
+
+input{
+    width: 200px;
+}
+
+.blood > label{
+    margin-left: -20px;
+}
+.head{
+   width: 47vw;
+   height: 80vh;
+   margin-top: 100px;
+   position: fixed;
+   padding: 0px 0px 0px 40px;
+}
+h1{
+    color: #fff;
+    margin-top: 40px;
+}
+p{
+    color: #fff;
+    font-size: 20px;
+    font-family: cursive;
+    text-indent: 2px;
+
+}
+
+.head img{
+    border-radius: 20px;
+    margin-left: 40px;
+    width: 400px;
+}
+
+.fa-arrow-right{
+    font-size: 40px;
+    border: 2px solid#fff;
+    padding: 10px 30px;
+    margin-left: 230px;
+    border-radius: 30px;
+    color: #fff;
+}
+
+.fa-arrow-right:hover{
+    background-color: orange;
+    color: #660000;
+}
+
