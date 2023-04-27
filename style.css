@@ -68,3 +68,25 @@ p{
     color: #660000;
 }
 
+<<<<<<< HEAD
+=======
+/* @media only screen and(min-width: 992px) {
+    .container {
+      width: 100%;
+      padding: 0 20px;
+      display: flex;
+      flex-direction: column;
+    }
+   .head{
+    margin-left: -30px;
+   
+
+    }
+    .head > img{
+        width: 40px;
+    }
+    h1{
+        font-size: 23px;
+    }
+}   */
+>>>>>>> c98d5562b7d6c233901be34b3b95ee636e4c37bb
